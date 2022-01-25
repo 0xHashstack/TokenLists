@@ -1,5 +1,5 @@
 {   "Index" : 1
-    "address": "0x58AADfFcbA6804Ac88f2018717526c5C10Ae0336",
+    "address": "0x3d2b1f363c79BaB4320DD0522239617aF31DaFde",
     "chainId": 197,
     "name": "USD-T Tether",
     "symbol": "USDT",
@@ -7,7 +7,7 @@
     "logoURI": "https://github.com/0xHashstack/open_documentation/blob/main/Deposit_LLD.PNG"
 },
 {   "Index" : 2
-    "address": "0x11AADfFcbA6804Ac88f2018717526c5C10Ae0352",
+    "address": "0x07D293cFc6E76430af18Ab6Ac3f41828e202D159",
     "chainId": 197,
     "name": "USD-C",
     "symbol": "USDC",
@@ -15,7 +15,7 @@
     "logoURI": "https://github.com/0xHashstack/open_documentation/blob/main/Deposit_LLD.PNG"
 },
 {   "Index" : 3
-    "address": "0x32AADfFcbA6804Ac88f2018717526c5C10Ae0318",
+    "address": "0x664aABd659Ae578454c7A7FC5b850DFB2203a87C",
     "chainId": 197,
     "name": "Bitcoin",
     "symbol": "BTC",
