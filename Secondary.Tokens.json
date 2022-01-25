@@ -1,24 +1,16 @@
 {   "Index" : 1
-    "address": "0x58AADfFcbA6804Ac88f2018717526c5C10Ae0336",
+    "address": "0xb6c2c0764e69FBb1CeC2254ec927Ddc7fe42738F",
     "chainId": 197,
-    "name": "USD-T Tether",
-    "symbol": "USDT",
+    "name": "Swipe Test",
+    "symbol": "SXP.t",
     "decimals": 18,
     "logoURI": "https://github.com/0xHashstack/open_documentation/blob/main/Deposit_LLD.PNG"
 },
 {   "Index" : 2
-    "address": "0x11AADfFcbA6804Ac88f2018717526c5C10Ae0352",
+    "address": "0x498D69f8ddf475E21C3d036F0bf0C6Ef82FEF2Ea",
     "chainId": 197,
-    "name": "USD-C",
-    "symbol": "USDC",
+    "name": "Cake",
+    "symbol": "Cake.t",
     "decimals": 18,
     "logoURI": "https://github.com/0xHashstack/open_documentation/blob/main/Deposit_LLD.PNG"
 },
-{   "Index" : 3
-    "address": "0x32AADfFcbA6804Ac88f2018717526c5C10Ae0318",
-    "chainId": 197,
-    "name": "Bitcoin",
-    "symbol": "BTC",
-    "decimals": 18,
-    "logoURI": "https://github.com/0xHashstack/open_documentation/blob/main/Deposit_LLD.PNG"
-}
